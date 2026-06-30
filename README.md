@@ -32,12 +32,14 @@ Este repositorio reúne la resolución eficiente de dos problemas complejos de o
 
 ## Estructura del repositorio
 
+```bash
 ├── doc/
 │   └── Memoria práctica 2.pdf renombrado
 ├── src/
 │   ├── H_ar.cpp
 │   └── L_bt.cpp    
 └── README.md
+```
 
 ---
 
